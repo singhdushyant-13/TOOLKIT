@@ -1,0 +1,51 @@
+Name,Department,City,Age,Salary,Experience_Years,Performance_Score,Projects_Completed,Satisfaction_Rating,Join_Date
+Alice Johnson,Engineering,New York,32,95000,8,92,15,4.5,2018-03-15
+Bob Smith,Marketing,San Francisco,28,72000,4,78,8,3.8,2021-06-01
+Carol Davis,Engineering,Austin,35,105000,11,88,22,4.2,2015-09-20
+David Wilson,Sales,Chicago,41,82000,15,95,30,4.7,2011-01-10
+Eve Martinez,Data Science,New York,29,98000,5,91,12,4.4,2020-08-12
+Frank Brown,Marketing,Austin,33,68000,7,72,10,3.5,2019-02-28
+Grace Lee,Engineering,San Francisco,27,92000,3,85,7,4.1,2022-04-15
+Henry Taylor,Sales,Chicago,38,78000,12,89,25,4.3,2014-07-03
+Iris Chen,Data Science,New York,31,102000,6,94,14,4.6,2019-11-22
+Jack Robinson,HR,Austin,45,71000,20,76,18,3.9,2006-05-18
+Karen White,Engineering,San Francisco,30,99000,6,90,13,4.5,2020-01-07
+Leo Harris,Marketing,Chicago,26,62000,2,70,4,3.2,2023-09-01
+Maria Garcia,Data Science,New York,34,110000,10,96,20,4.8,2016-03-30
+Nathan Clark,Sales,Austin,37,85000,13,87,27,4.0,2013-06-14
+Olivia Turner,HR,San Francisco,29,67000,5,81,9,3.7,2020-10-05
+Paul Adams,Engineering,Chicago,40,115000,16,93,35,4.6,2010-12-01
+Quinn Baker,Marketing,New York,25,58000,1,65,2,3.0,2024-07-20
+Rachel Scott,Data Science,Austin,33,107000,9,92,17,4.5,2017-04-11
+Sam Evans,Sales,San Francisco,36,80000,11,84,22,4.1,2015-08-25
+Tina Murphy,HR,Chicago,42,75000,18,79,16,3.8,2008-02-14
+Uma Patel,Engineering,New York,28,94000,4,87,9,4.3,2021-05-19
+Victor King,Marketing,Austin,31,70000,6,74,11,3.6,2019-09-08
+Wendy Fisher,Data Science,San Francisco,36,112000,12,95,23,4.7,2014-11-30
+Xavier Young,Sales,Chicago,39,83000,14,88,28,4.2,2012-03-22
+Yara Nelson,HR,New York,27,64000,3,77,6,3.4,2022-08-15
+Zane Cooper,Engineering,Austin,44,120000,20,97,40,4.9,2006-01-05
+Amy Hughes,Marketing,San Francisco,30,66000,5,71,8,3.3,2020-06-12
+Brian Foster,Data Science,Chicago,32,100000,7,90,15,4.4,2018-10-28
+Clara Reed,Sales,New York,35,86000,10,86,21,4.0,2016-07-17
+Dylan Morgan,HR,Austin,48,78000,24,82,20,4.1,2002-04-09
+Emma Sullivan,Engineering,San Francisco,26,88000,2,83,5,4.0,2023-03-14
+Felix Ward,Marketing,Chicago,34,73000,8,76,12,3.7,2017-12-01
+Gina Torres,Data Science,New York,29,96000,5,89,11,4.3,2020-09-23
+Hugo Price,Sales,Austin,43,90000,18,91,32,4.5,2008-06-30
+Isla Bennett,HR,San Francisco,31,69000,7,78,10,3.6,2018-01-19
+Jake Howard,Engineering,Chicago,37,108000,13,94,26,4.7,2013-05-08
+Kim Lawson,Marketing,New York,24,56000,1,63,2,2.9,2024-11-01
+Luna Reyes,Data Science,Austin,38,115000,14,97,25,4.8,2012-02-16
+Mike Sanders,Sales,San Francisco,33,81000,9,85,19,4.1,2017-07-24
+Nora Fleming,HR,Chicago,40,74000,16,80,15,3.9,2010-10-13
+Oscar Grant,Engineering,New York,29,91000,5,86,10,4.2,2020-12-07
+Penny Walsh,Marketing,Austin,27,63000,3,68,5,3.1,2022-06-30
+Quinn Ross,Data Science,San Francisco,35,109000,11,93,19,4.6,2015-04-20
+Ryan Tucker,Sales,Chicago,46,92000,22,90,36,4.4,2004-08-11
+Sara Dixon,HR,New York,30,70000,6,79,9,3.7,2019-03-25
+Tom Chambers,Engineering,Austin,42,118000,18,96,38,4.8,2008-09-17
+Ursula Hoffman,Marketing,San Francisco,32,71000,7,75,11,3.5,2018-11-06
+Vera McKenzie,Data Science,Chicago,28,97000,4,88,8,4.3,2021-07-14
+Will Carr,Sales,New York,40,87000,15,89,29,4.3,2011-05-02
+Xena Douglas,HR,Austin,34,72000,10,81,13,3.8,2016-12-19
